@@ -1,3 +1,3 @@
-module github.com/RandomBrainCode/go-session
+module github.com/go-corestat/session
 
 go 1.25.0
